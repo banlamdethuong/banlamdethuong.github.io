@@ -1,8 +1,8 @@
 # Site settings
 title: Ban Lam De Thuong - Web Developer
 description: "Chuyen mod file SF3 BNSVN ..."
-baseurl: "banlamdethuong.github.io"
-url: "banlamdethuong.github.io"
+baseurl: "modbnsvn.github.io"
+url: "modbnsvn.github.io"
 
 # User settings
 username: Ban Lam De Thuong
